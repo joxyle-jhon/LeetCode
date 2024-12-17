@@ -1,2 +1,2 @@
-# LeetCood
+# LeetCode
 Roadmap in  leetcode beginner
